@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">素数</string>
+    <string name="saludo">素数ですか？</string>
+    <string name="numero">数</string>
+    <string name="verificar">確認</string>
+    <string name="es_primo">数字の%1$dは素数です%2$s</string>
+    <string name="no_es_primo">数の%dは素数ではありません</string>
+    <string name="valor_requerido">必要な値</string>
+    <string name="ingresa_valor">番号を入力してください</string>
+    <string name="version">バージョン1.0</string>
+</resources>
